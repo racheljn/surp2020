@@ -1,0 +1,20 @@
+.row {
+  width: 100%;
+  text-align: center;
+}
+
+.block {
+  width: 6 rem;
+  margin: 3rem;
+  display: inline-block;
+}
+
+.headingMd {
+  font-size: 1.2rem;
+  line-height: 1.5;
+  color: black;
+}
+
+a.headingMd:hover {
+  text-decoration: overline;
+}

@@ -1,0 +1,19 @@
+.container {
+  max-width: 90%;
+  padding: 0 1rem;
+  margin: 2rem auto 6rem;
+}
+
+.header {
+  max-width: 100%;
+}
+
+.headerImage {
+  width: 6rem;
+  height: 6rem;
+}
+
+.headerHomeImage {
+  width: 8rem;
+  height: 8rem;
+}
