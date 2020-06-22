@@ -35,7 +35,7 @@ This music video title is referring to the children's game "rock, paper, scissor
  
  Due to the subjective nature of interpreting the comments there may be some discrepancy in the data.
  To see examples of comments that fit strictly into one category, [view the excel sheet with extracted comments](https://docs.google.com/spreadsheets/d/1I0OLaX2n-DolOuLzq0IMx5hv6Jhab-RPM0Rd6wH8dBg/edit?usp=sharing).
- They are colored accordingly to match the graph above.
+ They are labeled colored in column N accordingly to match the graph above.
 
 **Data Analysis**
 
