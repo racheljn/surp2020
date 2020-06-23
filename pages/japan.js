@@ -69,7 +69,7 @@ export default function Japan({ allPeoplesData, hlink, countryAs, title }) {
           </div>
           <br/>
           <div>
-          In 2018 the Japanese government signed a bill to allow for hundreds of thousands of workers to come to Japan to work in specific sectors such as construction, nursing and farming.<sub><sup>(<a href="https://surp2020.racheljn.vercel.app/sources">Okazaki</a>)</sup></sub>
+          In 2018 the Japanese government signed a bill to allow for hundreds of thousands of workers to come to Japan to work in specific sectors such as construction, nursing and farming<sub><sup>(<a href="https://surp2020.racheljn.vercel.app/sources">Okazaki</a>)</sup></sub>.
           Additionally statistics found that in 2016 one in every 29 marriages was between a Japanese national and a foreign citizen <sub><sup>(<a href="https://surp2020.racheljn.vercel.app/sources">International Marriages</a>)</sup></sub>.
           A such Japan is likely to grow more and more diverse in the years to come.
           In order to eliminate discrmination, Japan might need to wrestle with some of its current welfare, immigration, education, and health policies.
