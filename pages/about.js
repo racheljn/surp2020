@@ -39,13 +39,13 @@ export default function About() {
           <br />
           <div>
             Then we collected sentiment by extracting YouTube comments and tweets and organized them into Google Excel sheets.
-            We chose to focus on some famous biracial celebrities, using comments pertaining to them to create infographics.
+            Using this data, we created infographics on high-profile transnational individuals.
             Please note that our sample sizes of comments are relatively small!
           </div>
           <br />
           <div>
             We have organized the celebrities on this website based on their citizenship at the time of research.
-            Rachel focused on mixed-race individuals of Korean descent, while Bridget's emphasis was those of Japanese descent.
+            Rachel's focus was mixed-race individuals of Korean descent, while Bridget's was those of Japanese descent.
           </div>
           <br />
           We tracked our citations using Zotero. You can view our bibliography
