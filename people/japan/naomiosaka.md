@@ -42,7 +42,7 @@ Recently she has been speaking out about racial injustice and supporting the Bla
 
  **Data Analysis**
 
- The vast majority of comments were praise. The comments about her racial background were largely to express pride at her tennis skills and classy/kind/humble character example snippets of comments for each category include "ほんとに日本の誇り(truly the pride of Japan)", "That's blk unity n love there", "Haiti and Japanese parent brought up better PERSON". Absolutely no mention of her language ability.
+ The vast majority of comments were praise. The comments about her racial background were largely to express pride at her tennis skills and classy/kind/humble character example snippets of comments for each category include "ほんとに日本の誇り(truly the pride of Japan)", "That's blk unity n love there", "Haiti and Japanese parent brought up better PERSON". Absolutely no mention of her language ability. Thus this supports the idea that groups are more likely to claim a mixed individual who has achieved great success in a certain area or who is held in high regard by others.
 
 
 
