@@ -34,7 +34,7 @@ export default function About() {
           <div>
             To gain a greater background understanding of the current issues and history surrounding transnational,
             Japanese and Korean biracial identity, we spent around four weeks reading through various scholarly journals and news articles.
-            With this background information, we can better understand preconcieved notions that may affect our sentiment data and analyze people's opinions.
+            With this background information, we can better understand preconceived notions that may affect our sentiment data and analyze people's opinions.
           </div>
           <br />
           <div>
