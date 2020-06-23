@@ -5,7 +5,7 @@ nationality: 'korea'
 img: '/images/mirae.png'
 ---
 
-Yoon Mi-rae (윤미래), also known as T or Tasha, is Korea's most famous female rapper. Born in Texas, and raised in South Korea as a biracial African-American Korean, Mi-rae has faced discrimination on both sides.
+Yoon Mi-rae (윤미래), also known as T or Tasha, is Korea's most prominent female rapper. Born in Texas, and raised in South Korea as a biracial African-American Korean, Mi-rae has faced discrimination on both sides.
 
 In the U.S., she was not seen as "Black enough," while in Korea, she was a "Yankee" <sub><sup>([DT MFBTY INTERNATIONAL](https://surp2020.racheljn.vercel.app/sources))</sup></sub>. She did not have friends, was called racial slurs, and eventually dropped out of school at age 15 <sub><sup>([Kim](https://surp2020.racheljn.vercel.app/sources))</sup></sub>.
 
