@@ -5,7 +5,12 @@ nationality: 'korea'
 img: '/images/hyunmin.png'
 ---
 
-Han Hyunmin (한현민) is a popular model in South Korea, known for being the first Korean model of African descent to walk South Korea's catwalks. His father is Nigeran and mother is Korean, and he has faced a lot of discrimination, especially as a kid due to his different appearance. Kids teased him for his hair, calling him "broccoli," a sponge, and his skin color, pointing out that he's a Black kid eating 짜장면 (Korean black noodles). His friends were even told by their parents to not play with him. Throughout his life, he has constantly been seen as a foreigner, with others questioning his Koreanness. With the help of his mother who constantly told him that he was special, he gained confidence and learned to embrace the attention. Despite his hardships, he was able to become one of the most successful models in Korea and also named as Time's top 30 influential teens of 2017.
+Han Hyunmin (한현민) is a popular model in South Korea, known for being the first Korean model of African descent to walk South Korea's catwalks <sub><sup>([Korea Times](https://surp2020.racheljn.vercel.app/sources))</sup></sub>. 
+His father is Nigerian and mother is Korean, and he has faced a lot of discrimination, especially as a kid due to his different appearance.
+
+Kids teased him for his hair, calling him "broccoli"<sub><sup>([[4 Angles] Model Han Hyun-min](https://www.youtube.com/watch?v=D49luDV4e8k))</sup></sub>, a sponge, and his skin color, pointing out that he's a Black kid eating 짜장면 (Korean black noodles) <sub><sup>([[RADIO STAR] 라디오스타 - Han Hyun-min, I do not speak English, so I cut it in CF ?!20171227](https://www.youtube.com/watch?v=zpITBz1SYMk))</sup></sub>. His friends were even told by their parents to not play with him. Throughout his life, he has constantly been seen as a foreigner, with others questioning his Koreanness.
+
+With the help of his mother who constantly told him that he was special, he gained confidence and learned to embrace the attention. Despite his hardships, he was able to become one of the most successful models in Korea and also named as Time's top 30 influential teens of 2017 <sub><sup>([Han Hyunmin was chosen as TIME' s '30 Most Influential Teens of 2017' [Happy Together/2018.04.12]](https://www.youtube.com/watch?v=VXDx6zpEWw8))</sup></sub>.
 
 **Place of Birth:** Itaewon, Seoul, South Korea
 
