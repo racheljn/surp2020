@@ -73,7 +73,7 @@ export default function Japan({ allPeoplesData, hlink, countryAs, title }) {
           Additionally statistics found that in 2016 one in every 29 marriages was between a Japanese national and a foreign citizen <sub><sup>(<a href="https://surp2020.racheljn.vercel.app/sources">International Marriages</a>)</sup></sub>.
           As such, Japan is likely to grow more and more diverse in the years to come.
           In order to eliminate discrmination, Japan might need to wrestle with some of its current welfare, immigration, education, and health policies.
-          However its difficult to fix the policy problems if many people believe that diversity doesnt exist in Japan or is so small that it does not matter<sub><sup>(<a href="https://surp2020.racheljn.vercel.app/sources">下地(Shimoji)</a>)</sup></sub>.
+          However it's difficult to fix the policy problems if many people believe that diversity doesnt exist in Japan or is so small that it does not matter<sub><sup>(<a href="https://surp2020.racheljn.vercel.app/sources">下地(Shimoji)</a>)</sup></sub>.
           On this page we hope to highlight some biracial individuals who expand the notion of what it means to be "Japanese".
           They represent a hope for a future where diversity in Japan is no longer stifled by the myth of a entirely homogeneous nation.
           </div>
