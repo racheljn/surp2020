@@ -40,16 +40,16 @@ export default function KoreaHome({ allPeoplesData, hlink, countryAs, title }) {
             Korea due to policymaking that promoted multicultural families due to the low birth rates
             in the nation
             <Link href="/sources">
-                <a> (Kim, Hyun Mee) </a>
-              </Link>.
+              <a> (Kim, Hyun Mee). </a>
+            </Link>
           <div/>
           <br />
           <div>
             After Hines Ward earned MVP in Super Bowl XL, he announced his visit back to his birthplace, Korea. 
             This led to increased coverage of multicultural people and families in Korea 
               <Link href="/sources">
-                  <a> (Kim, Hyein) </a>
-              </Link>. 
+                <a> (Kim, Hyein). </a>
+              </Link>
             Additionally, the government issued new policies for biracial individuals and foreigners in 2006, 
             funding programs that supported legal multicultural marriages. This excludes 새터민 (North Korean 
             defectors), only providing migrant women married to Korean men with access to education in Korean 
