@@ -10,7 +10,7 @@ Naomi Osaka is a tennis player, and currently the highest paid female athlete in
 
 Osaka beat Serena Williams to win her first Grand Slam title at the 2018 US Open, then won her second Grand Slam at the 2019 Australian Open to become the world No.1 in singles <sub><sup>([Berkok](https://surp2020.racheljn.vercel.app/sources))</sup></sub>. Naomi gave up her US nationality to represent Japan when she turned 22. Naomi Osaka has been known for her shy candid personality and has expressed regret about holding back her thoughts.<sub><sup>([Macfarlane](https://surp2020.racheljn.vercel.app/sources))</sup></sub>
 
-Recently she has been speaking out about racial injustice and supporting the Black Lives Matter movement. Last year two Japanese comedians apologized after saying she "needed some bleach" <sub><sup>([Denyer](https://surp2020.racheljn.vercel.app/sources))</sup></sub>. She has faced both backlash and support for her opinions on BLM. Many hope that Naomi Osaka's existence would encourage Japanese society to be more accepting of biracial people.
+Recently she has been speaking out about racial injustice and supporting the Black Lives Matter movement. Last year two Japanese comedians apologized after saying she "needed some bleach" <sub><sup>([Denyer](https://surp2020.racheljn.vercel.app/sources))</sup></sub>. She has faced both backlash and support for her opinions on BLM. Naomi Osaka has fans around the world and many hope that Naomi Osaka's existence would encourage Japanese society to be more accepting of biracial people.
 
 
 **Place of Birth:** Osaka, Japan
