@@ -10,7 +10,7 @@ Naomi Osaka is a tennis player, and currently the highest paid female athlete in
 
 Osaka beat Serena Williams to win her first Grand Slam title at the 2018 US Open, then won her second Grand Slam at the 2019 Australian Open to become the world No.1 in singles <sub><sup>([Berkok](https://surp2020.racheljn.vercel.app/sources))</sup></sub>. Naomi gave up her US nationality to represent Japan when she turned 22. Naomi Osaka has been known for her shy candid personality and has expressed regret about holding back her thoughts.<sub><sup>([Macfarlane](https://surp2020.racheljn.vercel.app/sources))</sup></sub>
 
-Recently she has been speaking out about racial injustice and supporting the Black Lives Matter movement. Last year two Japanese comedians apologized after saying she "needed some bleach" <sub><sup>([Denyer](https://surp2020.racheljn.vercel.app/sources))</sup></sub>. She has faced both backlash and support for her opinions on BLM. Many hope that Naomi Osaka's existence would encourage Japanese society to be more accepting of biracial people.
+Recently she has been speaking out about racial injustice and supporting the Black Lives Matter movement. Last year two Japanese comedians apologized after saying she "needed some bleach" <sub><sup>([Denyer](https://surp2020.racheljn.vercel.app/sources))</sup></sub>. She has faced both backlash and support for her opinions on BLM. Naomi Osaka has fans around the world and many hope that her existence would encourage Japanese society to be more accepting of biracial people.
 
 
 **Place of Birth:** Osaka, Japan
@@ -42,7 +42,7 @@ Recently she has been speaking out about racial injustice and supporting the Bla
 
  **Data Analysis**
 
- The vast majority of comments were praise. The comments about her racial background were largely to express pride at her tennis skills and classy/kind/humble character example snippets of comments for each category include "ほんとに日本の誇り(truly the pride of Japan)", "That's blk unity n love there", "Haiti and Japanese parent brought up better PERSON". Absolutely no mention of her language ability.
+ The vast majority of comments were praise. The comments about her racial background were largely to express pride at her tennis skills and classy/kind/humble character example snippets of comments for each category include "ほんとに日本の誇り(truly the pride of Japan)", "That's blk unity n love there", "Haiti and Japanese parent brought up better PERSON". Absolutely no mention of her language ability. Thus this supports the idea that groups are more likely to claim a mixed individual who has achieved great success in a certain area or who is held in high regard by others.
 
 
 
