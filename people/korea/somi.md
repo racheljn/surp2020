@@ -5,7 +5,12 @@ nationality: 'korea'
 img: '/images/somi.png'
 ---
 
-Jeon So-mi (전소미), or Somi is a well-known solo artist and songwriter in South Korea signed to Black Label. She was born in Ontario and grew up in South Korea, speaking English and Korean with her parents. Growing up, she wanted to dye her hair darker and get plastic surgery on her eyes, nose, and lips to look more Korean due to the teasing she got as a biracial kid. However, she learned to love and accept herself, regardless of what others say. She rose to fame during her participation in Produce 101, a talent competition TV show, where she was ranked as first place. She is also known for being a member of girl groups, such as I.O.I and Girls Next Door and her connections to TWICE and ITZY. She is a prominent artist, with fans admiring her strength to pursue her dreams despite setbacks.
+
+Jeon So-mi (전소미), or Somi is a well-known solo artist and songwriter in South Korea signed to Black Label <sub><sup>([Kpop Profiles](https://surp2020.racheljn.vercel.app/sources))</sup></sub>. She was born in Ontario and grew up in South Korea, speaking English and Korean with her parents.
+
+Growing up, she wanted to dye her hair darker and get plastic surgery on her eyes, nose, and lips to look more Korean due to the teasing she got as a biracial kid<sub><sup>([Happy Together - There’s Nothing More Important Than Family [ENG/2016.06.16]](https://youtu.be/Lyy6a6cwqjU))</sup></sub>. However, she learned to love and accept herself, regardless of what others say <sub><sup>([Somi's extreme hardships - Toughest 16-year-old](https://www.youtube.com/watch?v=COT110knhb8))</sup></sub>.
+
+She rose to fame during her participation in Produce 101, a talent competition TV show, where she was ranked as first place. She is also known for being a member of girl groups, such as I.O.I and Girls Next Door and her connections to TWICE and ITZY. She is a prominent artist, with fans admiring her strength to pursue her dreams despite setbacks.
 
 **Place of Birth:** Ontario, Canada
 
