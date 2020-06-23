@@ -16,13 +16,15 @@ export default function About() {
         </div>
         <div className={utilStyles.lightText} >
           <div>
-            This research was conducted by Rachel Nguyen and Bridget OConnor with guidance from Dr.Rooks.
-            Rachel Nguyen and Bridget OConnor are both students at Loyola Marymount University, and were fortunate enough to receive funding to do this research
-            through LMU's SURP program.
+            This research was conducted by Rachel Nguyen and Bridget O'Connor with guidance from Dr.Rooks.
+            We are both students at Loyola Marymount University fortunate enough to receive funding to do this research
+            through LMU's Summer Undergraduate Research Program (SURP).
+            As biracial individuals minoring in Asian and Pacific Studies, we are both interested in learning about
+            the experiences of other multiracial people and the signficance of transnational representation today.
           </div>
           <br />
           <div>
-            This research was conducted over a 6 week period, from May to June 2020.
+            This research was conducted over a 6 week period (May 18th - June 26th) in 2020.
           </div>
         </div>
         <div className={utilStyles.headingLg}>
@@ -30,20 +32,23 @@ export default function About() {
         </div>
         <div className={utilStyles.lightText} >
           <div>
-            In order to gain a greater background understanding of the current issues and history surrounding transnational
-            Japanese and Korean biracial identity we spent a lot of time reading through various scholarly and news articles.
-            Through this background we were better able to understand some of the preconcieved notions that might affect our sentiment data
-            and it also influenced the way that we chose to categorize peoples opinions.
+            To gain a greater background understanding of the current issues and history surrounding transnational,
+            Japanese and Korean biracial identity, we spent around four weeks reading through various scholarly journals and news articles.
+            With this background information, we can better understand preconcieved notions that may affect our sentiment data and analyze people's opinions.
           </div>
           <br />
           <div>
-            We gathered sentiment through extracting Youtube comments and tweets then analyzing them in google excel sheets.
-            We chose to focus in on some famous biracial celebrities and the comments that we gathered and analyzed pertain to them.
-            Please note that our sample sizes of comments are relatively small.
-            We have organized the site sort the celebrities based on their citizenship at the time of research.
+            Then we collected sentiment by extracting YouTube comments and tweets and organized them into Google Excel sheets.
+            We chose to focus on some famous biracial celebrities, using comments pertaining to them to create infographics.
+            Please note that our sample sizes of comments are relatively small!
           </div>
           <br />
-          We kept track of our citations using Zotero. You can view our bibliography
+          <div>
+            We have organized the celebrities on this website based on their citizenship at the time of research.
+            Rachel focused on mixed-race individuals of Korean descent, while Bridget's emphasis was those of Japanese descent.
+          </div>
+          <br />
+          We tracked our citations using Zotero. You can view our bibliography
           <Link href="/sources">
             <a> here! </a>
           </Link>
