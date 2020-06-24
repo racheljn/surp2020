@@ -38,15 +38,15 @@ export default function Japan({ allPeoplesData, hlink, countryAs, title }) {
           <div>
           In the popular media Japan is widely regarded as a "homogeneous nation", a myth that serves to minimize the existence the many ethnic minority groups that reside in Japan.
           Some ethnic minority groups in Japan include, but are not limited to, foreign workers, <a href="#okinawan"> Okinawans(Uchinanchuu People), Ainu</a>, <a href='#zainichi'>Zainichi Koreans/Chinese,</a> and <a href='#Hafu'>Hafu</a>.
-          Notably there are also the Burakumin and Hibakusha, two minority groups known as ‘invisible minority’, since they are no different from majority Japanese in terms of race, ethnicity, language, culture, religion, or citizenship <sub><sup>(<a href="https://surp2020.racheljn.vercel.app/sources">Yamashiro</a>)</sup></sub>.
+          Notably there are also the Burakumin and Hibakusha, two minority groups known as ‘invisible minority’, since they are no different from majority Japanese in terms of race, ethnicity, language, culture, religion, or citizenship <sub><sup>(<Link href="/sources"><a>Yamashiro</a></Link>)</sup></sub>.
           In the Edo era Burakumin class consisted of workers involved with killing (butchers,tanners, etc) and although the caste system from the Edo era is abolished Burakumin still face job, marriage, and other discrimination to this day due to the perception of "impurity".
-          In a similar way Hibakusha also face marriage discrimination for being percieved as "impure", Hibakusha are victims or descendants of those who experienced the Nagasaki/Hiroshima bombing<sub><sup>(<a href="https://surp2020.racheljn.vercel.app/sources">Murphy-Shigematsu</a>)</sup></sub>.
+          In a similar way Hibakusha also face marriage discrimination for being percieved as "impure", Hibakusha are victims or descendants of those who experienced the Nagasaki/Hiroshima bombing<sub><sup>(<Link href="/sources"><a>Murphy-Shigematsu</a></Link>)</sup></sub>.
           </div>
           <br/>
           <div id='okinawan'>
           As for the ethnic minority groups, what is now known as Okinawa was once Ryuukyuu. A country annexed as a prefecture, and the first foreign country absorbed by Imperial Japan. Okinawans call themselves Uchinanchuu people in the Okinawan language.
           On the opposite end of Japan there are the Ainu people, whose language and culture are distinct from Japanese language and culture. However, due to the way in which Ainu lands were
-          colonized and continue to be enveloped by the Japanese state, Ainu are all Japanese citizens and most speak Japanese<sub><sup>(<a href="https://surp2020.racheljn.vercel.app/sources">Yamashiro</a>)</sup></sub>.
+          colonized and continue to be enveloped by the Japanese state, Ainu are all Japanese citizens and most speak Japanese<sub><sup>(<Link href="/sources"><a>Yamashiro</a></Link>)</sup></sub>.
           </div>
           <br/>
           <div id='zainichi'>
