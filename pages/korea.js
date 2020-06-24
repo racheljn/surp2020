@@ -79,7 +79,8 @@ export default function KoreaHome({ allPeoplesData, hlink, countryAs, title }) {
             Yoon Mi-Rae shares her journey of dealing with discrimination and others' criticisms of her through her music. 
             Han Hyunmin continues to break the mold of the stereotypical Korean model, embracing his dark skin and natural hair. 
             Additionally, Somi and her family attract a lot of praise and attention, promoting multicultural families in
-            Korea.
+            Korea. The celebrities listed on this page all are actively forcing society to re-evaluate "Koreanness," as well 
+            as "mixed-raceness."
           </div>
         </div>
         <div>
