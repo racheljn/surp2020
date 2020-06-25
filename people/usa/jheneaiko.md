@@ -27,7 +27,7 @@ Jhené Aiko has had multiple songs chart on Billboard throughout her career and 
 
 #### Tweets mentioning "Jhené Aiko" June 18th, 2020
 
-![CommentGraph](/images/jhene/Tweetsmentioning _Jhené Aiko_.svg)
+![CommentGraph](/images/jhene/TweetsmentioningJhenéAiko.svg)
 
 **Data Collection Parameters**
 
