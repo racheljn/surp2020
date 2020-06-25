@@ -81,7 +81,7 @@ Recently she has been speaking out about racial injustice and supporting the Bla
 
 **Data Collection Parameters**
 
- Collected a random sample of 100 tweets on June 18th, 2020 which contained @ naomiosaka. Tweets were counted only once and put into the category they most closely fit. Tweets in Japanese or english and only one tweet per account were counted (30 tweets uncounted). Due to the subjective nature of interpreting the comments there may be some discrepancies in the data. To see examples of comments that fit into a category, [view the google sheet with extracted comments](https://docs.google.com/spreadsheets/d/1-rZkNkfBMEkqDR7q3eRQsFU_Pm5OxMJ8kjxj1pL39XY/edit?usp=sharing) The example comments are listed under the graph and highlighted accordingly with the category on the left. The uncounted comments are highlighted pink.
+ Collected a random sample of 100 tweets on June 18th, 2020 which contained @ naomiosaka. Tweets were counted only once and put into the category they most closely fit. Tweets in Japanese or english and only one tweet per account were organized by sentiment (30 tweets uncounted/unable to be categorized). Due to the subjective nature of interpreting the comments there may be some discrepancies in the data. To see examples of comments that fit into a category, [view the google sheet with extracted comments](https://docs.google.com/spreadsheets/d/1-rZkNkfBMEkqDR7q3eRQsFU_Pm5OxMJ8kjxj1pL39XY/edit?usp=sharing) The example comments are listed under the graph and highlighted accordingly with the category on the left. The uncounted comments are highlighted pink.
 
 
  **Data Analysis**

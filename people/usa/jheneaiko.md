@@ -20,3 +20,20 @@ Jhené Aiko has had multiple songs chart on Billboard throughout her career and 
 **Languages Spoken:** English (native)
 
 **Profession:** Singer/Songwriter
+
+---
+
+## Sentiment Data from Twitter
+
+#### Tweets mentioning "Jhené Aiko" June 18th, 2020
+
+![CommentGraph](/images/jhene/Tweetsmentioning _Jhené Aiko_.svg)
+
+**Data Collection Parameters**
+
+ Collected a random sample of 100 tweets on June 18th, 2020 which contained mentioned "Jhené Aiko" in their body. Tweets were counted only once and put into the category they most closely fit. Tweets in english and only one tweet per account were counted (10 tweets uncounted/unable to be categorized). Due to the subjective nature of interpreting the comments there may be some discrepancies in the data. To see examples of comments that fit into a category, [view the google sheet with extracted comments](https://docs.google.com/spreadsheets/d/138HMQW6LM2mpz-1a9opWrpC5t6BuMR_ik678REuwahE/edit?usp=sharing) The example comments are listed under the graph and highlighted accordingly with the category on the left. The uncounted comments are highlighted pink.
+
+
+ **Data Analysis**
+
+ The vast majority of the tweets were positive and related to Jhené Aiko's music and career, with only 1 tweet expressing clear disdain for her music. The focus on her music and complete lack of mention of her racial background, language ability, etc speaks volumes, and shows in this sample set those parts of her identity are not contested. Additionally, there were a large number of tweets that were people or radio stations merely stating that they were playing her songs, which confirms her position as a popular and influential artist.

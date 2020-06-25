@@ -39,9 +39,9 @@ export default function USAHome({ allPeoplesData, hlink, countryAs, title }) {
             “race categories have historically been used in the United States
             to separate people for social, economic, political, and ideological
             purposes”
-            <Link href="/sources">
+            <sub><sup><Link href="/sources">
               <a> (Tutwiler). </a>
-            </Link>
+            </Link></sup></sub>
             She dives into how white people have used race to preserve their statuses
             at the top of the social hierarchy, dismissing those of color and mixed
             race, stemming from discrimination during slavery. The exclusion and
@@ -54,7 +54,9 @@ export default function USAHome({ allPeoplesData, hlink, countryAs, title }) {
           In spite of the current tendency to celebrate multiculturalism, many still face a genuine dilemma of where
           one may place a hybrid body that does not fit into one simple place. In the US there are many biracial
           people who both embrace and feel alienated by the term Asian-American. Non-acceptance still occurs in a mainland Asian American context,
-          particularly when the Asian descent multiracial are of african and/or latino ancestries.
+          particularly when the Asian descent multiracial are of african and/or latino ancestries<sub><sup><Link href="/sources">
+            <a> (Ho) </a>
+          </Link></sup></sub>.
           </div>
           <br/>
           <div>
@@ -72,9 +74,9 @@ export default function USAHome({ allPeoplesData, hlink, countryAs, title }) {
             Further studies on the identities of mixed invdividuals reveal how these
             are "edge dancers," in which they may dance between the boundaries of their
             different cultures depending on the situation
-            <Link href="/sources">
+            <sub><sup><Link href="/sources">
               <a> (Houston and Hogan). </a>
-            </Link>
+            </Link></sup></sub>
             This process of dancing redefines the edges of what it means to be a multicultural
             indivdual, forcing others to reinterpret their own definitions of certain social groups
             and multiculturalism. One way of studying the construction of multiracial indenties
@@ -87,9 +89,9 @@ export default function USAHome({ allPeoplesData, hlink, countryAs, title }) {
             Maria P.P. Root introduces an ecological model of racial identity
             development that includes studying the contexts of one's, gender,
             class, and regional history of race
-            <Link href="/sources">
+            <sub><sup><Link href="/sources">
               <a> (Root). </a>
-            </Link>
+            </Link></sup></sub>
             According to her, the family unit is key in assisting multiracial
             children in learning about and accepting their cultures. Those who
             feel rejected by family members or others may develop hatred against
@@ -121,7 +123,9 @@ export default function USAHome({ allPeoplesData, hlink, countryAs, title }) {
             popular multiracial figures in the US who claim all of their racial heritage.
             The visibility of these celebrities helps to dispell the mono-racial myth surrounding
             Asian Americans and help to highlight how multiracial people are not an escape from race but
-            a return to it.
+            a return to it<sub><sup><Link href="/sources">
+              <a> (Nishime) </a>
+            </Link></sup></sub>.
           </div>
         </div>
         <div>
