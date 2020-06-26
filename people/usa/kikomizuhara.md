@@ -25,3 +25,24 @@ She wrote a tweet in response to the hate, and wrote (translated from Japanese) 
 **Profession:** Model, Actress
 
 ---
+
+## Sentiment Data from Youtube
+
+#### [KIKO MIZUHARA | The REAL Her](https://youtu.be/hzt4ZcsffJ4)
+
+**Video Summary**
+
+The video is a compilation of Kiko Mizuhara being silly, talking to others, and vlogging.
+
+![KikoGraph](/images/kiko/kikograph.svg)
+
+**Data Collection Parameters**
+
+ Collected a sample of the most recent 70 comments, only including English and Chinese comments related to Kiko, and sorted them into the different categories shown below. Comments could fit into multiple categories.
+ Due to the subjective nature of interpreting the comments there may be some discrepancy in the data.
+ To see examples of comments that fit strictly into one category, [view the excel sheet with extracted comments](https://docs.google.com/spreadsheets/d/15RekSRAnx_RS8nhZZeiu2D3xq_VQTleDdpykAXyERE8/edit?usp=sharing).
+ They are labeled accordingly to match the graph above.
+
+**Data Analysis**
+
+The top three categories in the graph are compliments related to compliments/praise, GD/relationships, and hate towards Kiko. Most comments were from fans gushing over how adorable or silly Kiko Mizuhara is and how people understand why GD and other guys like her. There were also a few comments about how she's ugly, fake, and an attention whore. There were also a few comments relating to how she is "pretending" to be Japanese and is actually Korean, similar to the tweets she has received from Twitter. Aside those who are jealous and cannot accept a biracial white-Korean as a Japanese model, it seems like the attitudes towards Kiko are relatively positive, which is likely influenced by the fact hat the video is meant to highlight Kiko's charms. 

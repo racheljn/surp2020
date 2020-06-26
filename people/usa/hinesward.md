@@ -58,7 +58,6 @@ Hines Ward shares his experience with growing up biracial in the U.S. and his jo
 
 ![HinesGraph](/images/hines/hinesgraph.svg)
 
-
 **Data Collection Parameters**
 
  Collected a sample of the most recent 65 comments and sorted them into the different categories shown below. Comments could fit into multiple categories.

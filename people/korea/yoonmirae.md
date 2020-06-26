@@ -34,7 +34,6 @@ This music video title is referring to the children's game "rock, paper, scissor
 
 ![MiraeGraph](/images/mirae/miraegraph.svg)
 
-
 **Data Collection Parameters**
 
  Collected a thread of 55 comments, sparked by the comment "anyone new claiming culture appropriation she’s half back She has the right to be proud of both cultures so go away" with 825 likes, and sorted them into the different categories shown below. Comments could fit into multiple categories.
