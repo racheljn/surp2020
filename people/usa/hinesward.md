@@ -34,27 +34,27 @@ He has various accomplishments in his NFL career, including being the all-time t
 Hines Ward shares his experience with growing up biracial in the U.S. and his journey with accepting his Korean heritage after being rejected by Korean society.
 
 **Note-worthy Timestamps**
-[0:50](https://youtu.be/w8VW4HJ8rYA?t=50) In Korea, children of mixed ethnicity have long been pariahs, shunned by mainstream society. As a result, biracial Koreans are usually poorer and less well-educated than pure-blooded Koreans. The women who bear these children are also subjected to harsh intolerance.
+[0:50](https://youtu.be/w8VW4HJ8rYA?t=50) Announcer: "In Korea, children of mixed ethnicity have long been pariahs, shunned by mainstream society. As a result, biracial Koreans are usually poorer and less well-educated than pure-blooded Koreans. The women who bear these children are also subjected to harsh intolerance."
 
-[1:13](https://youtu.be/w8VW4HJ8rYA?t=73) When my mom walked out in Korea, people would call her names, spit on her.I mean that's how bad in Korea it is
+[1:13](https://youtu.be/w8VW4HJ8rYA?t=73) Hines: "When my mom walked out in Korea, people would call her names, spit on her. I mean that's how bad in Korea it is"
 
-[1:43](https://youtu.be/w8VW4HJ8rYA?t=103) It goes back to Confucian times and then also the result of invasions of Japan when there were mixed blooded children, which they resented at the time. If you're not pure-blooded Korean, you face discrimination
+[1:43](https://youtu.be/w8VW4HJ8rYA?t=103) Advocate of multiracial individuals: "It goes back to Confucian times and then also the result of invasions of Japan when there were mixed blooded children, which they resented at the time. If you're not pure-blooded Korean, you face discrimination"
 
-[2:00](https://youtu.be/w8VW4HJ8rYA?t=120) Before Ward turned two years old, his parents relocated to Georgia, in large part because his mother wanted to escape the prejudices in Korea
+[2:00](https://youtu.be/w8VW4HJ8rYA?t=120) Announcer: "Before Ward turned two years old, his parents relocated to Georgia, in large part because his mother wanted to escape the prejudices in Korea"
 
-[2:30](https://youtu.be/w8VW4HJ8rYA?t=150) Ward's parents divorced and Hines eventually fell out of touch with his father. Throughout his childhood, Wards found himself an outsider.
+[2:30](https://youtu.be/w8VW4HJ8rYA?t=150) Announcer: "Ward's parents divorced and Hines eventually fell out of touch with his father. Throughout his childhood, Wards found himself an outsider."
 
-[2:41](https://youtu.be/w8VW4HJ8rYA?t=161) Going to school, Black kids teased me because I was Korean so it was hard to try to fit in with Black kids because they always made fun of my Korean side. Well, trying to hang out with the Korean kids, they always teased me because I was Black. Trying to hang out with white kids, they teased me because I was Black and Korean
+[2:41](https://youtu.be/w8VW4HJ8rYA?t=161) Hines Ward: "Going to school, Black kids teased me because I was Korean so it was hard to try to fit in with Black kids because they always made fun of my Korean side. Well, trying to hang out with the Korean kids, they always teased me because I was Black. Trying to hang out with white kids, they teased me because I was Black and Korean"
 
-[3:19](https://youtu.be/w8VW4HJ8rYA?t=199) to hell with Korean people. They didn't accept me, they didn't accept my mom. I had that anger for the longest time.
+[3:19](https://youtu.be/w8VW4HJ8rYA?t=199) Hines Ward: "To hell with Korean people. They didn't accept me, they didn't accept my mom. I had that anger for the longest time."
 
-[3:46](https://youtu.be/w8VW4HJ8rYA?t=226) During his 11 seasons with the Steelers, performance mattered more than ethnicity
+[3:46](https://youtu.be/w8VW4HJ8rYA?t=226) Announcer: "During his 11 seasons with the Steelers, performance mattered more than ethnicity"
 
-[4:37](https://youtu.be/w8VW4HJ8rYA?t=277) As a nation that had once ostracized them, now celebrated them
+[4:27](https://youtu.be/w8VW4HJ8rYA?t=277) Announcer: "As a nation that had once ostracized them, now celebrated them"
 
-[5:43](https://youtu.be/w8VW4HJ8rYA?t=343) He announced that he would create a foundation dedicated to the advancement of Koreans of mixed ethnicity
+[5:43](https://youtu.be/w8VW4HJ8rYA?t=343) Announcer: "He announced that he would create a foundation dedicated to the advancement of Koreans of mixed ethnicity"
 
-[6:54](https://youtu.be/w8VW4HJ8rYA?t=414) Having now finally being embraced by Korean society, he now embraces his own Korean heritage
+[6:54](https://youtu.be/w8VW4HJ8rYA?t=414) Announcer: "Having now finally being embraced by Korean society, he now embraces his own Korean heritage"
 
 ![HinesGraph](/images/hines/hinesgraph.svg)
 
