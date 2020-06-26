@@ -8,7 +8,7 @@ img: '/images/kiko.png'
 
 Audrie Noriko Daniel, known as Kiko Mizuhara (水原希子), is highly influential in Japan's fashion scene <sub><sup>([The Business of Fashion](https://surp2020.racheljn.vercel.app/sources))</sup></sub>. Although she was in Dallas, Texas, she spent most of her life in Japan <sub><sup>([水原 希子 All about Kiko Mizuhara](https://surp2020.racheljn.vercel.app/sources))</sup></sub>.
 
-She started her modeling career after winning Seventeen Japan's competition in 2003. Recently, Elle Japan, Numero Tokyo, Nylon Japan, Vogue Girl Japan and Ginza Magazine have been regularly featuring her. Additionally, she has worked with international brands, such as Chanel and Dior. She debuted as an actress in "Norwegian Wood," and has had success in this industry as well.
+She started her modeling career after winning Seventeen Japan's competition in 2003. Recently, Elle Japan, Numero Tokyo, Nylon Japan, Vogue Girl Japan and Ginza Magazine have regularly featured her. Additionally, she has worked with international brands, such as Chanel and Dior. She debuted as an actress in "Norwegian Wood," and has had success in this industry as well.
 
 As a white-Korean celebrity in Japan, Kiko is well-acquainted with cyberbullying from Japanese netizens. After revealing that her mother is Zainichi Korean, Japanese twitter erupted with people claiming that "she is pretending to be Japanese or that she is anti-nationalistic" <sub><sup>([Yamasaki](https://surp2020.racheljn.vercel.app/sources))</sup></sub>. Other comments pertained to discrimination against Koreans and how she did not "qualify" to be a model for Suntory <sub><sup>([Kim](https://surp2020.racheljn.vercel.app/sources))</sup></sub>.
 
