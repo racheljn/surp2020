@@ -56,7 +56,7 @@ The hosts talk about how Hyunmin has earned the title as one of "The 30 Most Inf
 
 **Note-worthy Timestamps**
 
-[1:27](https://youtu.be/VXDx6zpEWw8?t=87) Korean host asks, "sorry could you tell me again?"
+[1:27](https://youtu.be/VXDx6zpEWw8?t=87) Korean host asks, "sorry could you tell me again?" in English
 
 [3:30](https://youtu.be/VXDx6zpEWw8?t=210) Hyunmin says, "I think they put me on the list to encourage me to work harder after seeing how hard I work despite the different skin color" to which Sam said "you did well." Then a Korean host mentioned that Hyunmin is stylish and well-proportioned
 
