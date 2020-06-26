@@ -7,7 +7,7 @@ img: '/images/priyanka.jpg'
 ---
 Priyanka Yoshikawa is the only child of a Bengali father and Japanese mother <sub><sup>([Prakash](https://surp2020.racheljn.vercel.app/sources))</sup></sub>. She was born in Tokyo, and from 1st to 4th grade she attended school in the US. From 4th to 6th she lived with her cousins in India and learned Bengali. Then in 6th grade she return to Japan and was bullied by her peers for looking different and her non-fluent Japanese<sub><sup>([Dayman](https://surp2020.racheljn.vercel.app/sources))</sup></sub>. After school she started doing modeling she states "I think my attraction to the beauty world was an act of defiance to all the kids in school. I believed in myself and thought it was a way to show people that what makes me different makes me beautiful.<sub><sup>([Dayman](https://surp2020.racheljn.vercel.app/sources))</sup></sub>" In 2016 she made headlines when she won Miss World Japan and also placed in the International Miss World Pageant<sub><sup>(["Define Yourself"](https://surp2020.racheljn.vercel.app/sources))</sup></sub>.
 
-Currently Priyanka runs a beauty/wellness line known as Mukoomi "gender-neutral CBD skincare and beauty products that targeted an ethnically diverse and age-diverse customer base" aiming to inspire people of all ages to embrace their skin and oppose ageism which is prevalent Japanese beauty industry<sub><sup>([Dayman](https://surp2020.racheljn.vercel.app/sources))</sup></sub>. Priyanka has also promoted elephant conservation in the past and holds a Laos national certification for elephant training, she stated "I do conservation work for Asian elephants, projects [that include] their future and helping communities and mindful tourism. I’m making a bridge between Japan and India <sub><sup>([Prakash](https://surp2020.racheljn.vercel.app/sources))</sup></sub>”. Since she was young Priyanka has always had a goal to change the world for the better and uses her multiracial identity and relevant skillset to do just that.
+Currently Priyanka runs a beauty/wellness line known as Mukoomi "gender-neutral CBD skincare and beauty products that targeted an ethnically diverse and age-diverse customer base" aiming to inspire people of all ages to embrace their skin and oppose ageism which is prevalent Japanese beauty industry<sub><sup>([Dayman](https://surp2020.racheljn.vercel.app/sources))</sup></sub>. As part of her humanitarian work, she is also ambassador for Smile Asia to promote treatment of facial deformities in children, and for the Balipara Foundation working for sustainable community development in the Eastern Himalayas<sub><sup>(["Define Yourself"](https://surp2020.racheljn.vercel.app/sources))</sup></sub>.. She hopes to be a bridge between Japan and India <sub><sup>([Prakash](https://surp2020.racheljn.vercel.app/sources))</sup></sub>”. Since she was young Priyanka has always had a goal to change the world for the better and uses her multiracial identity and entrepreneurial mindset to do just that.
 
 **Place of Birth:** Tokyo, Japan
 
@@ -18,3 +18,24 @@ Currently Priyanka runs a beauty/wellness line known as Mukoomi "gender-neutral 
 **Languages Spoken:** Japanese (fluent), Bengali (basic), English (fluent)
 
 **Profession:** Entrepreneur
+
+---
+
+## Sentiment Data from Youtube
+
+#### Comments from a video titled " [Define Yourself | Priyanka Yoshikawa | TEDxKyoto](https://www.youtube.com/watch?v=UqGwAlD5kkA) "
+
+![CommentGraph](/images/naomi/NaomiOsakavsCocoGauff.svg)
+
+**Video Summary**
+
+ Priyanka Yoshikawa talks about her struggles with prejudice growing up in Japan and how she was able to find herself and rise above it and get to where she is today. She states that identity is much more than a country or blood and encourages the viewers to be strong and be free to be whoever they want to be.
+
+**Data Collection Parameters**
+
+ Due to the limited number of comments on the video, we collected all of the comment that were not included in subthreads which is about 29 comments. Comments were double counted if their contents fit into multiple categories. Due to the subjective nature of interpreting the comments there may be some discrepancies in the data. To see examples of comments that fit into a category, [view the google sheet with extracted comments](https://docs.google.com/spreadsheets/d/1iFAcS1Qrt4zLQA6nlotBMpiq1fN-Pi7NmQbsJqzfQro/edit?usp=sharing)  The example comments are listed under the graph and highlighted accordingly with the category on the left.
+
+
+ **Data Analysis**
+
+ The vast majority of comments were praise. The comments about her racial background were largely to express pride at her tennis skills and classy/kind/humble character example snippets of comments for each category include "ほんとに日本の誇り(truly the pride of Japan)", "That's blk unity n love there", "Haiti and Japanese parent brought up better PERSON". Absolutely no mention of her language ability. Thus this supports the idea that groups are more likely to claim a mixed individual who has achieved great success in a certain area or who is held in high regard by others.
