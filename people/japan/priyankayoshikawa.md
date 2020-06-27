@@ -25,7 +25,7 @@ Currently Priyanka runs a beauty/wellness line known as Mukoomi "gender-neutral 
 
 #### Comments from a video titled " [Define Yourself | Priyanka Yoshikawa | TEDxKyoto](https://www.youtube.com/watch?v=UqGwAlD5kkA) "
 
-![CommentGraph](/images/naomi/NaomiOsakavsCocoGauff.svg)
+![CommentGraph](/images/priyanka/DefineYourselfPriyanka'sTedx.svg)
 
 **Video Summary**
 
@@ -33,9 +33,9 @@ Currently Priyanka runs a beauty/wellness line known as Mukoomi "gender-neutral 
 
 **Data Collection Parameters**
 
- Due to the limited number of comments on the video, we collected all of the comment that were not included in subthreads which is about 29 comments. Comments were double counted if their contents fit into multiple categories. Due to the subjective nature of interpreting the comments there may be some discrepancies in the data. To see examples of comments that fit into a category, [view the google sheet with extracted comments](https://docs.google.com/spreadsheets/d/1iFAcS1Qrt4zLQA6nlotBMpiq1fN-Pi7NmQbsJqzfQro/edit?usp=sharing)  The example comments are listed under the graph and highlighted accordingly with the category on the left.
+ Due to the limited number of comments on the video, we collected all of the comment that were not included in subthreads which is about 29 comments. Comments were double counted if their contents fit into multiple categories. Due to the subjective nature of interpreting the comments there may be some discrepancies in the data. To see examples of comments that fit into a category, [view the google sheet with extracted comments](https://docs.google.com/spreadsheets/d/1tO-6snLR56CmOgQTTefimOhhWjR2OEyVYJLErcBUklQ/edit?usp=sharing)  The example comments are listed under the graph and highlighted accordingly with the category on the left.
 
 
  **Data Analysis**
 
- The vast majority of comments were praise. The comments about her racial background were largely to express pride at her tennis skills and classy/kind/humble character example snippets of comments for each category include "ほんとに日本の誇り(truly the pride of Japan)", "That's blk unity n love there", "Haiti and Japanese parent brought up better PERSON". Absolutely no mention of her language ability. Thus this supports the idea that groups are more likely to claim a mixed individual who has achieved great success in a certain area or who is held in high regard by others.
+ Many people were sympathetic to her struggles in Japan and admired her strong will to push through the hard times, with some saying she is a role model for other biracial people. Additional some commented about her strong English ability, and complimented her intelligence which is likely relational to the fact that this is a Ted talk. However there were still a few comments that were dismissive of her personal experience and struggles. There was also a variety of comments mentioning her racial background in neither a positive nor negative way.   
