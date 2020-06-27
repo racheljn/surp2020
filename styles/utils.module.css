@@ -4,6 +4,7 @@
   font-weight: 800;
   letter-spacing: -0.05rem;
   margin: 1rem 0;
+  word-wrap: break-word;
 }
 
 .headingXl {
@@ -43,6 +44,7 @@
   float:right;
   max-width: 30%;
   text-align: center;
+  word-wrap: break-word;
 }
 
 .info {
