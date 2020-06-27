@@ -6,8 +6,8 @@ img: '/images/hinesward.png'
 ---
 
 
-Hines Ward is well-known for winning two Super Bowls <sub><sup>([Ward](https://surp2020.racheljn.vercel.app/sources))</sup></sub>. He brought international attention to multiracial individuals and families when he announced his 
-visit to Korea <sub><sup>([Kim, Hyein](https://surp2020.racheljn.vercel.app/sources))</sup></sub>, even playing a role in new legislation passing in favor of multicultural families. His family, with his African-American father and Korean mother faced a lot of discrimination, causing them to move to the US from Korea. His mom felt that he would have more oportunities in the US.
+Hines Ward is well-known for winning two Super Bowls <sub><sup>([Ward](https://surp2020.racheljn.vercel.app/sources))</sup></sub>. He brought international attention to multiracial individuals and families when he announced his
+visit to Korea <sub><sup>([Kim, Hyein](https://surp2020.racheljn.vercel.app/sources))</sup></sub>, even playing a role in new legislation passing in favor of multicultural families. His family, with his African-American father and Korean mother faced a lot of discrimination, causing them to move to the US from Korea. His mom felt that he would have more opportunities in the US.
 
 He was excluded from the Black and Korean communities for not being strictly one race, and developed a hatred against Koreans and their culture. However, Hines was able to find solace in football. Eventually, he won MVP of the Super Bowl, rising to fame. He utilized this influence to spread awareness of stigmas towards multicultural families and eventually founded the Helping Hands Foundation, which helps inner-city kids in PA and biracial Koreans in Korea improve literacy.
 
@@ -66,8 +66,7 @@ Hines Ward shares his experience with growing up biracial in the U.S. and his jo
  They are labeled accordingly to match the graph above.
 
 **Data Analysis**
+
 The video demonstrates how racist, pure-blooded ideologies are detrimental to biracial individuals, and how this can affect people anywhere. While Hines Ward was in Korea, his mother experienced a lot of discrimination for being in an interracial relationship. While he was in the US, white, Black, and Korean kids alienated him, causing him to constantly feel like an outsider and eventually developming contentment towards Koreans. However, after winning MVP, he decided to visit again for the first time in a long time. He was warmly welcomed by the nation, supporting that success plays a significant role in one's acceptance in a community.
 
 Based on the comments, it seems that Hines Ward is well-accepted by society now. I did not notice any comments bashing Hines Wards. The closest mentioned how they did not like how he resented his culture, but understand now. Most comments were either sympathetic to Hines or directed towards Korea/Asia and the racism that exists there. There were also a lot of comments related to mixed-raceness and also how people's opions of certain groups of people have changed. Overall, comments were in support of Hines Ward as a biracial Black-Korean and show that times have changed and people are more accepting of biracial individuals and despise the racism in Korea.
-
----

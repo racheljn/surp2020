@@ -6,7 +6,7 @@ img: '/images/kiko.png'
 ---
 
 
-Audrie Noriko Daniel, known as Kiko Mizuhara (水原希子), is highly influential in Japan's fashion scene <sub><sup>([The Business of Fashion](https://surp2020.racheljn.vercel.app/sources))</sup></sub>. Although she was in Dallas, Texas, she spent most of her life in Japan <sub><sup>([水原 希子 All about Kiko Mizuhara](https://surp2020.racheljn.vercel.app/sources))</sup></sub>.
+Audrie Noriko Daniel, known as Kiko Mizuhara (水原希子), is highly influential in Japan's fashion scene <sub><sup>([The Business of Fashion](https://surp2020.racheljn.vercel.app/sources))</sup></sub>. Although she was born in Dallas, Texas, she spent most of her life in Japan <sub><sup>([水原 希子 All about Kiko Mizuhara](https://surp2020.racheljn.vercel.app/sources))</sup></sub>.
 
 She started her modeling career after winning Seventeen Japan's competition in 2003. Recently, Elle Japan, Numero Tokyo, Nylon Japan, Vogue Girl Japan and Ginza Magazine have regularly featured her. Additionally, she has worked with international brands, such as Chanel and Dior. She debuted as an actress in "Norwegian Wood," and has had success in this industry as well.
 
@@ -45,4 +45,4 @@ The video is a compilation of Kiko Mizuhara being silly, talking to others, and 
 
 **Data Analysis**
 
-The top three categories in the graph are compliments related to compliments/praise, GD/relationships, and hate towards Kiko. Most comments were from fans gushing over how adorable or silly Kiko Mizuhara is and how people understand why GD and other guys like her. There were also a few comments about how she's ugly, fake, etc. There were also a few comments relating to how she is "pretending" to be Japanese and is actually Korean, similar to the tweets she has received from Twitter. Aside those who are jealous and cannot accept a biracial white-Korean as a Japanese model, it seems like the attitudes towards Kiko are relatively positive, which is likely influenced by the fact that the video is meant to highlight Kiko's charms. 
+The top three categories in the graph are compliments related to compliments/praise, GD/relationships, and hate towards Kiko. Most comments were from fans gushing over how adorable or silly Kiko Mizuhara is and how people understand why GD and other guys like her. There were also a few comments about how she's ugly, fake, etc. There were also a few comments relating to how she is "pretending" to be Japanese and is actually Korean, similar to the tweets she has received from Twitter. Aside those who are jealous and cannot accept a biracial white-Korean as a Japanese model, it seems like the attitudes towards Kiko are relatively positive, which is likely influenced by the fact that the video is meant to highlight Kiko's charms.
