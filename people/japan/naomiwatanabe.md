@@ -34,7 +34,7 @@ img: '/images/naomiwatanabe.jpg'
 
   **Video Summary**
 
-   Naomi Osaka goes through her makeup routine on camera and recommends and provides tips on how to do her look, she speaks in Japanese and is given English subtitles. It also shows off her talent for make up despite the fact that she does most of her look using her fingers. The video is a good example of the humorous and fun personality that makes her so popular and it and has over 8 million views.
+   Naomi Watanabe goes through her makeup routine on camera and recommends and provides tips on how to do her look, she speaks in Japanese and is given English subtitles. It also shows off her talent for make up despite the fact that she does most of her look using her fingers. The video is a good example of the humorous and fun personality that makes her so popular and it and has over 8 million views.
 
   **Data Collection Parameters**
 
